@@ -1,0 +1,21 @@
+
+.skype-status-widget a.skype-status {
+	display: block;
+	width: 100%;
+	text-align: center;
+	min-height: 44px;
+}
+
+.skype-status-widget a:hover.skype-status,
+.skype-status-widget a:active.skype-status,
+.skype-status-widget a:focus.skype-status {
+	background: none;
+	color: none;
+}
+
+.skype-status-widget .text-before {
+	margin: 0 0 10px 0;
+}
+.skype-status-widget .text-after {
+	margin: 10px 0 0 0;
+}
